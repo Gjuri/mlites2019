@@ -1,2 +1,2 @@
-# 2019
-2019 course
+# Machine Learning in the Environmental Sciences 2019
+
